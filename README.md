@@ -1,17 +1,17 @@
 # Financial-Named-Entity-Recognition-How-Far-Can-LLM-Go
-The artifacts for the paper "[Financial Named Entity Recognition: How Far Can LLM Go?]{http://arxiv.org/abs/2501.02237}", more information can be found in the [paper]{http://arxiv.org/abs/2501.02237}.
+The artifacts for the paper "[Financial Named Entity Recognition: How Far Can LLM Go?](http://arxiv.org/abs/2501.02237)", more information can be found in the [paper](http://arxiv.org/abs/2501.02237).
 This Readme will introduce by each file and directories. 
 
 ### Dataset
 
-We use the dataset FiNER-ORD from the paper "[FiNER-ORD: Financial Named Entity Recognition Open Research Dataset]{https://arxiv.org/abs/2302.11157}", their dataset is available both on [huggingface]{https://huggingface.co/datasets/gtfintechlab/finer-ord} and [github]{https://github.com/gtfintechlab/FiNER-ORD?tab=readme-ov-file}, please go to these provided links for more information.
+We use the dataset FiNER-ORD from the paper "[FiNER-ORD: Financial Named Entity Recognition Open Research Dataset](https://arxiv.org/abs/2302.11157)", their dataset is available both on [huggingface](https://huggingface.co/datasets/gtfintechlab/finer-ord) and [github](https://github.com/gtfintechlab/FiNER-ORD?tab=readme-ov-file), please go to these provided links for more information.
 
 ### Prompt Design
 
 
 ### BERT_on_FiNER.ipynb
 
-This code contains training code for BERT and RoBERTa models, modified from the [huggingface token classificaion tutorial]{https://huggingface.co/learn/nlp-course/chapter7/2}.
+This code contains training code for BERT and RoBERTa models, modified from the [huggingface token classificaion tutorial](https://huggingface.co/learn/nlp-course/chapter7/2).
 
 ### Results
 
