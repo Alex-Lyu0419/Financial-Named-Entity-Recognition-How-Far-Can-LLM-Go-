@@ -1,0 +1,16 @@
+{
+    "few_shot_sent": [
+        "\" The September presentations are scheduled as follows : When : 11:30 AM – 1:00 PM Tuesday , September 29th , 2015 Where : Green Hills Country Club 500 Ludeman Lane , Millbrae , CA 94030 Complimentary Lunch Provided When : 11:30 AM – 1:00 PM Wednesday , September 30th , 2015 Where : 1101 Fifth Avenue , Suite 310 – San Rafael , CA 94901 Complimentary Lunch Provided To RSVP please call Kelley at 925-219-0080 , or RSVP at info( at) donormotivationnorcal ( dot ) com About Yerba Buena Wealth Advisors , LLC Based in San Rafael , CA Yerba Buena Wealth Advisors , LLC consultancy firm specializes in helping their non-profit clients , their donors , entrepreneurs , and accredited investors make an even greater impact on the people and causes they care about deeply .",
+        "If a deal is struck , which is n't yet certain , the German auto makers plan to invite other automotive companies such as Fiat Chrysler Automobiles FCAU 0.39 % NV , Renault SA , RNO 0.53 % PSA Peugot Citro\u00ebn , Ford Motor Co . F - 0.41 % , Toyota Motor Corp . TM - 0.72 % and General Motors Co . GM - 0.36 % to invest in Nokia",
+        "The report also shows the Bush camp 's taste for the luxe and exclusive , with payments to the likes of the Four Seasons Palo Alto , the St. Regis in Atlanta and Houston , the Hotel Bel Air in Los Angeles , the Mandarin Oriental in San Francisco and the Union League of Philadelphia .",
+        "The largest five companies listed in Greece are Coca - Cola Hellenic - the world 's second largest Coca - Cola bottler - Hellenic Telecom , National Bank ( NYSE : NBHC - news ) of Greece , Opap - which runs the Greek national lottery - and Alpha Bank ( Other OTC : ALBWF - news ) .",
+        "The Greater Accra Poultry Farmers Association ( GPFA ) emerged the overall winners of the night , while the High Impact Personality ( HIP ) award went to an entrepreneur and Chief Executive Officer ( CEO ) of the National Medium - Term Private Sector Development Strategy ( PSDS II ) , Mr Joe Tackie , for the tremendous contribution he had provided to members in the field of mentoring , tutoring and consultancy services ."
+    ],
+    "few_shot_ans": [
+        "[PERSON]: Kelley\n[LOCATION]: Green Hills Country Club, 500 Ludeman Lane , Millbrae , CA 94030, 1101 Fifth Avenue , Suite 310 – San Rafael , CA 94901, San Rafael , CA\n[ORGANIZATION]: Yerba Buena Wealth Advisors , LLC, Yerba Buena Wealth Advisors , LLC",
+        "[PERSON]: none\n[LOCATION]: none\n[ORGANIZATION]: Fiat Chrysler Automobiles, FCAU, Renault SA, RNO, PSA Peugot Citroën, Ford Motor Co ., F, Toyota Motor Corp ., TM, General Motors Co ., GM, Nokia",
+        "[PERSON]: Bush\n[LOCATION]: St. Regis in Atlanta, Houston, Los Angeles, San Francisco, Philadelphia\n[ORGANIZATION]: Four Seasons Palo Alto, Hotel Bel Air, Mandarin Oriental, Union League",
+        "[PERSON]: none\n[LOCATION]: Greece, Greece\n[ORGANIZATION]: Coca - Cola Hellenic, Coca - Cola, Hellenic Telecom, National Bank, NYSE, NBHC, Opap, Alpha Bank, ALBWF",
+        "[PERSON]: Joe Tackie\n[LOCATION]: none\n[ORGANIZATION]: Greater Accra Poultry Farmers Association, GPFA, National Medium - Term Private Sector Development Strategy, PSDS II"
+    ]
+}
