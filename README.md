@@ -8,6 +8,7 @@ We use the dataset FiNER-ORD from the paper "[FiNER-ORD: Financial Named Entity 
 
 ### Prompt Design
 
+The file `few_shot.json` contains the five shot chosen arbitrary for the few-shot learning.
 
 ### BERT_on_FiNER.ipynb
 
@@ -29,5 +30,7 @@ The results are formatted in JSON, each containing the following key, value pair
 
 ### Evaluation Metrics
 
-### Citation
+We use entity-level F1 score and weighted F1 score for our evaluation metrics, as described in the paper. The `evaluate.py` file contains the code for evaluation.
+
+## Citation
 If you find this repository useful, please cite our work.
