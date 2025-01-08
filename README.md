@@ -14,4 +14,4 @@ The results are formatted in JSON, each containing the following key, value pair
 1. sentence: the sentence in the test set.
 2. tags: the labelled entities in each sentence.
 3. response: the response of LLMs for each NER task. We feed one sentence to the LLM at one time, each response is corresponding to one sentence in the test set. 
-4. answer_tags: the tags of each recognized entities in each sentence by the model.
+4. answer_tags: the tags of each recognized entities in each sentence by the model. We retrieved the named entity recognized in the LLM's responses, and labelled each word in the sentence through string matching.
